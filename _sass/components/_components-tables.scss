@@ -1,0 +1,55 @@
+h1 {
+	margin-top: 2rem;
+	margin-bottom: 1rem;
+}
+.has_bangs td {
+	background-color: #eee;
+}
+
+.table-sm {
+	font-size: 14px;
+
+	th,
+	td {
+		padding: 3px 12px;
+	}
+
+	thead {
+		tr:not(.table-section)  {
+			background-color: hsl(0, 0%, 97%);
+		}
+
+		th:not(.h4) {
+			color: #666;
+			font-size: 12px;
+		}
+	}
+}
+
+.pectrograph-img__wrapper {
+	position: relative;
+}
+
+.progress-line {
+  margin-left: 0;
+  width: 1px;
+  height: 100%;
+  background-color: white;
+  position: absolute;
+  top: 0;
+  z-index: 2;
+}
+
+.progress-line.active {
+  animation: scanning 10s linear 1;
+  animation-delay: 200ms;
+}
+
+@keyframes scanning {
+	from {
+		margin-left: 0%;
+	}
+	to {
+		margin-left: 100%;
+	}
+ }

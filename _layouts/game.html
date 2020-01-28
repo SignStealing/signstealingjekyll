@@ -1,0 +1,130 @@
+{%- include head.html -%}
+
+{%- include header.html -%}
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+        <h1>Game: {{ page.display_name }}</h1>
+        <p>{{ page.game_id }}</p>
+
+        <table class="table table-sm table-pitches">
+
+          {% for thisinning in site.data[page.game_id] %}
+            <thead>
+              <tr class="table-section">
+                <th colspan="7" style="padding-top: 2rem;" class="h4">{{ thisinning.top_bottom }} {{ thisinning.inning }}</th>
+              </tr>
+              <tr>
+                <th>Player</th>
+                <th class="text-center">Bangs</th>
+                <th>Pitch Type</th>
+                <th>Pitch Category</th>
+                <th>Result</th>
+                <th style="min-width: 130px;">Play Audio</th>
+                <th>YouTube</th>
+              </tr>
+            </thead>
+            <tbody>
+
+              {% for thisatbat in thisinning.at_bats %}
+                {% for pitch in thisatbat.pitches %}
+                  <tr{% if pitch.has_bangs %}  class="has_bangs"{% endif %}>
+                    {% if forloop.first %}
+                      <th style="width: 20%;" scope="row" rowspan="{{ thisatbat.total_pitches | times: 2 }}">{{ thisatbat.batter_name }}</th>
+                    {% endif %}
+                    <td class="text-center">{% if pitch.has_bangs %}{{ pitch.bangs }}{% endif %}</td>
+                    <td>{{ pitch.pitch_type_display }} </td>
+                    <td>{{ pitch.pitch_catetory_display }}</td>
+                    <td>{{ pitch.pitch_result }}</td>
+                    <td>
+                      <button class="badge badge-primary play-audio-button"  type="button" data-toggle="collapse" data-target="#pitch{{ pitch.game_pitch_id }}" aria-expanded="false" aria-controls="pitch{{ pitch.game_pitch_id }}">
+                        Play Audio
+                      </button>
+                    </td>
+                    <td><a href="{{ pitch.youtube_url }}" target="youtube">YouTube</a></td>
+                  </tr>
+                  <tr>
+                    <td colspan="6" id="pitch{{ pitch.game_pitch_id }}" class="collapse spectrogram-container" style="padding: 0 !important;">
+                      <audio class="pitch-audio" preload="none" src="/assets/audio/{{ page.game_id }}/{{ page.game_id }}_{{ pitch.pitch_id }}.flac"></audio>
+                      <div class="spectrograph-img__wrapperx">
+                        <div class="col" style="padding: 0;">
+                          <div class="progress-line"></div>
+                          <img class="spectorgram-img" data-src="/assets/images/spectrograms/{{ pitch.spectrogram_filename_jpg }}" alt="" style="width: 100%; height: auto;">
+                        </div>
+                      </div>
+                    </td>
+                  </tr>
+                {% endfor %}
+
+              {% endfor %}
+
+            </tbody>
+          {% endfor %}
+
+        </table>
+
+        <div class="container-fluid page-content">
+          {{ content }}
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  window.addEventListener('load', function() {
+
+    $('.play-audio-button').on('click', function() {
+      console.log($(this));
+      if ($(this).hasClass("collapsed")) {
+        $(this).html("Pause Audio");
+      } else {
+        $(this).html("Play Audio");
+      };
+    });
+
+    $('.spectrogram-container').on('show.bs.collapse', function () {
+
+      var specimg = $(this).find('.spectorgram-img');
+      specimg.attr('src', specimg.attr('data-src'));
+
+
+      var progline = $(this).find('.progress-line');
+
+      var audplayer = $(this).find('.pitch-audio');
+      var aud = audplayer.get(0);
+
+
+      if (aud.paused) {
+        aud.play();
+
+        progline.addClass('active');
+
+      } else {
+        aud.pause();
+        progline.removeClass('active');
+      }
+
+    });
+
+
+    $('.spectrogram-container').on('hide.bs.collapse', function () {
+      var audplayer = $(this).find('.pitch-audio');
+      var aud = audplayer.get(0);
+      var progline = $(this).find('.progress-line');
+
+      aud.pause();
+      progline.removeClass('active');
+
+    });
+
+
+
+  }, false)
+</script>
+
+
+{%- include footer.html -%}

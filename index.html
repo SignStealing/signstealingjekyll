@@ -1,0 +1,289 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+<div class="row">
+	<div class="col">
+
+
+<p class="lead" style="margin-bottom: 2rem;">I’m an Astros fan. They cheated during the 2017 regular season — the evidence is clear. In an attempt to understand the scope of the cheating and the players involve, I decided to listen every pitch from the Astros’ 2017 home games and log any banging noise I could detect. These are the results of my efforts. I’ve logged over 8,200 pitches and found banging before over 1,100 of those pitches. </p>
+</div>
+</div>
+<div class="container-fluid">
+<div class="row">
+	<div class="col-4"></div>
+	<div class="col-4">
+		<select name="player" id="graph-player" class="custom-select custom-select-lgx mb-3">
+			<option value="20" selected>Team Total</option>
+			<option value="0">AJ Reed</option>
+			<option value="1">Alex Bregman</option>
+			<option value="2">Brian McCann</option>
+			<option value="3">Cameron Maybin</option>
+			<option value="4">Carlos Beltran</option>
+			<option value="5">Carlos Correa</option>
+			<option value="6">Derek Fisher</option>
+			<option value="7">Evan Gattis</option>
+			<option value="8">George Springer</option>
+			<option value="9">J.D. Davis</option>
+			<option value="10">Jake Marisnick</option>
+			<option value="11">Jose Altuve</option>
+			<option value="12">Josh Reddick</option>
+			<option value="13">Juan Centeno</option>
+			<option value="14">Marwin Gonzalez</option>
+			<option value="15">Max Stassi</option>
+			<option value="16">Norichika Aoki</option>
+			<option value="17">Tony Kemp</option>
+			<option value="18">Tyler White</option>
+			<option value="19">Yuli Gurriel</option>
+		</select>
+	</div>
+	<div class="col-4"></div>
+</div>
+		<div class="row">
+			<div class="col">
+				<div id="container" style="min-width: 400px; height: 500px; margin: 0 auto 2rem"></div>
+			</div>
+		</div>
+<div class="container">
+	<h2 class="text-center">Games</h2>
+<table class="table table-sm game-list" style="width: auto; margin: 1rem auto;" id='bangs_by_date'>
+	<thead>
+		<tr>
+			<th>Date</th>
+			<th>Opp</th>
+			<th>Score</th>
+			<th class="text-center">Bangs</th>
+			<th>Notes</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for game in site.games %}
+
+			{% assign bang_opacity = game.total_bangs | times: 0.01 %}
+			<tr>
+				<td>
+					{% if game.has_video %}
+						<a href="{{ game.url }}">{{ game.date | date: "%a %b %-d, %Y" }}</a>
+					{% else %}
+						{{ game.date | date: "%a %b %-d, %Y" }}
+					{% endif %}
+				</td>
+				<td class="text-center">{% if game.has_video %}<div style="width: 80%; padding: 1px 4px; background-color: hsla(359, 92%, 62%, {{ bang_opacity }}); margin: 0 auto">{{ game.total_bangs }}</div>{% else %}—{% endif %}</td>
+				<td>{{ game.opponent }}</td>
+				<td>{{ game.display_score }}</td>
+				<td>{{ game.notes }}</td>
+			</tr>
+		{% endfor %}
+	</tbody>
+</table>
+</div>
+</div>
+
+<script>
+	var player_data = [
+		{name: 'AJ Reed', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], bangs: 4, pitches: 27, bang_percent: '14.8%'},
+		{name: 'Alex Bregman', data: [0,0,0,0,0,0,0,1,0,0,3,0,1,0,0,0,0,0,2,0,0,0,0,0,1,5,0,1,2,0,5,5,4,4,6,2,3,4,3,1,8,6,4,7,3,4,2,6,4,10,10,4,1,5,0,6,0,0], bangs: 133, pitches: 800, bang_percent: '16.6%'},
+		{name: 'Brian McCann', data: [0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,6,0,2,1,0,3,0,5,0,3,0,3,2,0,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1], bangs: 45, pitches: 507, bang_percent: '8.9%'},
+		{name: 'Cameron Maybin', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0,4,0,0,0], bangs: 13, pitches: 56, bang_percent: '23.2%'},
+		{name: 'Carlos Beltran', data: [0,0,2,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,3,1,4,0,6,0,6,0,2,8,7,4,4,12,2,0,2,3,5,8,2,5,4,8,4,2,5,0,5,2,11,0,0,4,0,4,0,0], bangs: 138, pitches: 762, bang_percent: '18.1%'},
+		{name: 'Carlos Correa', data: [0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0,9,3,3,0,6,0,3,1,3,5,13,5,7,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,5,8,10,5,0,0], bangs: 97, pitches: 594, bang_percent: '16.3%'},
+		{name: 'Derek Fisher', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,5,0,0,0,0,0,2,3,0,0,2,0,0,0,1,0,0,0], bangs: 16, pitches: 211, bang_percent: '7.6%'},
+		{name: 'Evan Gattis', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3,0,7,0,3,0,6,0,0,9,10,8,10,0,0,0,0,0,0,0,0,0,0,0,4,0,6,3,0,0], bangs: 71, pitches: 427, bang_percent: '16.6%'},
+		{name: 'George Springer', data: [0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,10,0,1,0,3,0,2,10,3,8,3,5,6,3,4,5,0,0,0,0,0,0,6,10,2,10,6,5,8,3,7,5,4,6,0,0], bangs: 139, pitches: 933, bang_percent: '14.9%'},
+		{name: 'J.D. Davis', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,4,2,0,1,0,0,0,0,0,0,0], bangs: 14, pitches: 49, bang_percent: '28.6%'},
+		{name: 'Jake Marisnick', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,0,5,0,2,0,0,6,4,5,3,8,5,12,0,6,3,5,0,10,0,3,1,0,0,0,0,0,0,0], bangs: 83, pitches: 364, bang_percent: '22.8%'},
+		{name: 'Jose Altuve', data: [1,0,2,0,0,1,2,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,1,1,0,1,0,0,2,0,1,0,0,0,0,0,1,0,0,2,0,0,1,0,1,1,0,0,0], bangs: 24, pitches: 866, bang_percent: '2.8%'},
+		{name: 'Josh Reddick', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,4,0,0,0,2,1,0,0,2,4,1,3,1,3,1,0,0], bangs: 28, pitches: 725, bang_percent: '3.9%'},
+		{name: 'Juan Centeno', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,3,2,0,0,4,0,0,0,0,0,0], bangs: 13, pitches: 65, bang_percent: '20.0%'},
+		{name: 'Marwin Gonzalez', data: [0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,6,7,1,0,4,9,13,8,5,7,5,6,7,0,2,1,1,0,6,5,6,2,8,7,1,8,0,6,4,1,4,1,0], bangs: 147, pitches: 776, bang_percent: '18.9%'},
+		{name: 'Max Stassi', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,1,5,0,0,0,0,0,0,0,0], bangs: 13, pitches: 52, bang_percent: '25.0%'},
+		{name: 'Norichika Aoki', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,2,0,0,0,1,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], bangs: 16, pitches: 261, bang_percent: '6.1%'},
+		{name: 'Tony Kemp', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0], bangs: 0, pitches: 23, bang_percent: '0.0%'},
+		{name: 'Tyler White', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,8,0,0,0,0,0,0,0,0,5,4,0,0,0,0,0], bangs: 28, pitches: 106, bang_percent: '26.4%'},
+		{name: 'Yuli Gurriel', data: [0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,3,6,2,3,1,0,4,3,12,2,4,4,5,4,6,3,13,3,7,5,4,1,1,4,1,2,0,0,7,1,5,0,0], bangs: 120, pitches: 670, bang_percent: '17.9%'},
+		{name: 'Team Total', data: [1,0,5,1,1,1,2,4,2,0,5,3,2,1,2,0,1,2,2,3,6,3,28,7,13,17,36,6,17,26,40,44,41,48,37,27,31,43,28,39,41,54,23,37,35,37,16,45,33,29,47,24,37,35,31,41,1,1], bangs: 1142, pitches: 8274, bang_percent: '13.8%'},
+	]
+
+	// First, let's make the colors transparent
+	Highcharts.setOptions({
+			colors: Highcharts.map(Highcharts.getOptions().colors, function (color) {
+					return Highcharts.color(color)
+							.setOpacity(0.5)
+							.get('rgba');
+			})
+	});
+
+
+	var chart = Highcharts.chart('container', {
+		credits: {
+				text: 'SignStealingScandal.com',
+				href: 'http://www.signstealingscandal.com'
+		},
+			chart: {
+					type: 'column',
+			},
+			title: {
+					text: 'Astros Bangs: Team Total'
+			},
+			subtitle: {
+					text: '1,143 bangs out of 8,274 pitches'
+			},
+			xAxis: {
+					categories: [
+							'Apr 3',
+							'Apr 4',
+							'Apr 5',
+							'Apr 6',
+							'Apr 7',
+							'Apr 9',
+							'Apr 17',
+							'Apr 18',
+							'Apr 19',
+							'Apr 20',
+							'Apr 28',
+							'Apr 29',
+							'May 2',
+							'May 3',
+							'May 4',
+							'May 9',
+							'May 10',
+							'May 19',
+							'May 20',
+							'May 22',
+							'May 23',
+							'May 24',
+							'May 28',
+							'Jun 9',
+							'Jun 10',
+							'Jun 11',
+							'Jun 12',
+							'Jun 14',
+							'Jun 16',
+							'Jun 28',
+							'Jun 29',
+							'Jun 30',
+							'Jul 1',
+							'Jul 14',
+							'Jul 15',
+							'Jul 16',
+							'Jul 17',
+							'Jul 19',
+							'Jul 31',
+							'Aug 1',
+							'Aug 3',
+							'Aug 4',
+							'Aug 5',
+							'Aug 6',
+							'Aug 17',
+							'Aug 18',
+							'Aug 19',
+							'Aug 20',
+							'Aug 22',
+							'Aug 23',
+							'Aug 24',
+							'Sep 3',
+							'Sep 15',
+							'Sep 19',
+							'Sep 20',
+							'Sep 21',
+							'Sep 22',
+							'Sep 24'
+						]
+			},
+			yAxis: {
+					min: 0,
+					title: {
+							text: 'Bangs'
+					}
+			},
+			legend: {
+					layout: 'vertical',
+					backgroundColor: '#FFFFFF',
+					align: 'left',
+					verticalAlign: 'top',
+					x: 100,
+					y: 70,
+					floating: true,
+					shadow: true
+			},
+			tooltip: {
+					shared: true,
+					valueSuffix: ' bangs'
+			},
+					legend: {
+							enabled: false
+					},
+			plotOptions: {
+					column: {
+							grouping: false,
+							shadow: false
+					},
+
+					series: {
+							animation: {
+									duration: 2000
+							}
+					}
+			},
+			series: [
+
+					{
+						name: 'Team Total',
+						data: [1,0,5,1,1,1,2,4,2,0,5,3,2,1,2,0,1,2,2,3,6,3,28,7,13,17,36,6,17,26,40,44,41,48,37,27,31,43,28,39,41,54,23,37,35,37,16,45,33,29,47,24,37,35,31,41,1,1],
+						pointPadding: 0,
+						visible: true,
+						color: '#cccccc',
+					},
+					{
+						name: 'Player',
+						data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+						pointPadding: 0,
+						visible: true,
+						color: '#F4911E',
+					},
+
+			],
+			caption: {
+							text: '<b>Only home games with video available were logged (58 games).</b><br>Due to the nature of a MLB broadcast (e.g., announcers, crowd noise) it is impossible to determine every noise that could be an intentional bang. It is almost certain that during there were noises that'
+					},
+					exporting: {
+							sourceWidth: 800,
+							sourceHeight: 700,
+					}
+	});
+
+	chart.series[1].setData(player_data[20].data);
+
+	$( document ).ready(function() {
+
+		$( "#graph-player" ).change(function() {
+			selected_player = player_data[$(this).val()];
+
+			chart.setSubtitle({
+				text: selected_player.name + ': ' + selected_player.bangs + ' out of ' + selected_player.pitches + ' pitches (' + selected_player.bang_percent + ')'
+			});
+
+			if (selected_player == 20) {
+				chart.setTitle({
+						text: 'Astros Bangs: Team Total'
+					});
+				chart.series[1].update({
+					name: selected_player.name,
+					data: selected_player.data.slice()
+				});
+			} else {
+				chart.setTitle({
+					text: 'Astros Bangs: ' + selected_player.name + ' vs Team Total'
+				});
+				chart.series[1].update({
+					name: selected_player.name,
+					data: selected_player.data.slice()
+				});
+			}
+		});
+
+	});
+
+</script>

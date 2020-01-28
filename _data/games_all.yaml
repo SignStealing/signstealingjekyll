@@ -1,0 +1,2187 @@
+- 2017_04_03_seamlb_houmlb_1:
+    pk: 490111
+    game_id: 2017_04_03_seamlb_houmlb_1
+    date: 2017-04-03
+    short_date: Apr 3
+    date_zulu: 2017-04-04 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 136
+    l_team_club_common_name: Mariners
+    l_team_display_code: sea
+    home_team_runs: 3
+    away_team_runs: 0
+    w_pitcher: Dallas Keuchel
+    l_pitcher: Felix Hernandez
+    sv_pitcher: Ken Giles
+    youtube_id: af5e55Cc8ZA
+    youtube_start_offset: 949
+    total_pitches: 104
+    total_bangs: 1
+- 2017_04_04_seamlb_houmlb_1:
+    pk: 490119
+    game_id: 2017_04_04_seamlb_houmlb_1
+    date: 2017-04-04
+    short_date: Apr 4
+    date_zulu: 2017-04-05 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 136
+    l_team_club_common_name: Mariners
+    l_team_display_code: sea
+    home_team_runs: 2
+    away_team_runs: 1
+    w_pitcher: Lance McCullers Jr.
+    l_pitcher: Hisashi Iwakuma
+    sv_pitcher: Ken Giles
+    youtube_id: Lg-MuSY5YbU
+    youtube_start_offset: 651
+    total_pitches: 110
+    total_bangs: 0
+- 2017_04_05_seamlb_houmlb_1:
+    pk: 490133
+    game_id: 2017_04_05_seamlb_houmlb_1
+    date: 2017-04-05
+    short_date: Apr 5
+    date_zulu: 2017-04-06 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 136
+    l_team_club_common_name: Mariners
+    l_team_display_code: sea
+    home_team_runs: 5
+    away_team_runs: 3
+    w_pitcher: Brad Peacock
+    l_pitcher: Chase De Jong
+    sv_pitcher: ''
+    youtube_id: WTsHakP381M
+    youtube_start_offset: 679
+    total_pitches: 216
+    total_bangs: 5
+- 2017_04_06_seamlb_houmlb_1:
+    pk: 490146
+    game_id: 2017_04_06_seamlb_houmlb_1
+    date: 2017-04-06
+    short_date: Apr 6
+    date_zulu: 2017-04-07 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 136
+    w_team_club_common_name: Mariners
+    w_team_display_code: sea
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 2
+    away_team_runs: 4
+    w_pitcher: Dan Altavilla
+    l_pitcher: Ken Giles
+    sv_pitcher: Edwin Diaz
+    youtube_id: MUMI3u7ftZw
+    youtube_start_offset: 626
+    total_pitches: 139
+    total_bangs: 1
+- 2017_04_07_kcamlb_houmlb_1:
+    pk: 490153
+    game_id: 2017_04_07_kcamlb_houmlb_1
+    date: 2017-04-07
+    short_date: Apr 7
+    date_zulu: 2017-04-08 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 118
+    away_team_club_common_name: Royals
+    away_team_display_code: kc
+    w_team: 118
+    w_team_club_common_name: Royals
+    w_team_display_code: kc
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 1
+    away_team_runs: 5
+    w_pitcher: Jason Vargas
+    l_pitcher: Mike Fiers
+    sv_pitcher: ''
+    youtube_id: nqaVy366uus
+    youtube_start_offset: 701
+    total_pitches: 131
+    total_bangs: 1
+- 2017_04_08_kcamlb_houmlb_1:
+    pk: 490168
+    game_id: 2017_04_08_kcamlb_houmlb_1
+    date: 2017-04-08
+    short_date: Apr 8
+    date_zulu: 2017-04-08 23:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 118
+    away_team_club_common_name: Royals
+    away_team_display_code: kc
+    w_team: 118
+    w_team_club_common_name: Royals
+    w_team_display_code: kc
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 3
+    away_team_runs: 7
+    w_pitcher: Danny Duffy
+    l_pitcher: Luke Gregerson
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 113
+    total_bangs: 0
+- 2017_04_09_kcamlb_houmlb_1:
+    pk: 490183
+    game_id: 2017_04_09_kcamlb_houmlb_1
+    date: 2017-04-09
+    short_date: Apr 9
+    date_zulu: 2017-04-09 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 118
+    away_team_club_common_name: Royals
+    away_team_display_code: kc
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 118
+    l_team_club_common_name: Royals
+    l_team_display_code: kc
+    home_team_runs: 5
+    away_team_runs: 4
+    w_pitcher: Chris Devenski
+    l_pitcher: Matt Strahm
+    sv_pitcher: ''
+    youtube_id: lnQFgqF5ZQs
+    youtube_start_offset: 690
+    total_pitches: 192
+    total_bangs: 1
+- 2017_04_17_anamlb_houmlb_1:
+    pk: 490288
+    game_id: 2017_04_17_anamlb_houmlb_1
+    date: 2017-04-17
+    short_date: Apr 17
+    date_zulu: 2017-04-18 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 108
+    l_team_club_common_name: Angels
+    l_team_display_code: laa
+    home_team_runs: 3
+    away_team_runs: 0
+    w_pitcher: Charlie Morton
+    l_pitcher: Jesse Chavez
+    sv_pitcher: Ken Giles
+    youtube_id: iP2zDfaBz9w
+    youtube_start_offset: 636
+    total_pitches: 109
+    total_bangs: 2
+- 2017_04_18_anamlb_houmlb_1:
+    pk: 490302
+    game_id: 2017_04_18_anamlb_houmlb_1
+    date: 2017-04-18
+    short_date: Apr 18
+    date_zulu: 2017-04-19 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 108
+    w_team_club_common_name: Angels
+    w_team_display_code: laa
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 2
+    away_team_runs: 5
+    w_pitcher: Ricky Nolasco
+    l_pitcher: Joe Musgrove
+    sv_pitcher: Cam Bedrosian
+    youtube_id: DagJa34CKwU
+    youtube_start_offset: 626
+    total_pitches: 147
+    total_bangs: 4
+- 2017_04_19_anamlb_houmlb_1:
+    pk: 490317
+    game_id: 2017_04_19_anamlb_houmlb_1
+    date: 2017-04-19
+    short_date: Apr 19
+    date_zulu: 2017-04-20 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 108
+    l_team_club_common_name: Angels
+    l_team_display_code: laa
+    home_team_runs: 5
+    away_team_runs: 1
+    w_pitcher: Dallas Keuchel
+    l_pitcher: JC Ramirez
+    sv_pitcher: ''
+    youtube_id: jp1YLsKpItY
+    youtube_start_offset: 735
+    total_pitches: 127
+    total_bangs: 2
+- 2017_04_20_anamlb_houmlb_1:
+    pk: 490331
+    game_id: 2017_04_20_anamlb_houmlb_1
+    date: 2017-04-20
+    short_date: Apr 20
+    date_zulu: 2017-04-20 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 108
+    l_team_club_common_name: Angels
+    l_team_display_code: laa
+    home_team_runs: 2
+    away_team_runs: 1
+    w_pitcher: Lance McCullers Jr.
+    l_pitcher: Matt Shoemaker
+    sv_pitcher: Chris Devenski
+    youtube_id: UlLgNPjNmKU
+    youtube_start_offset: 684
+    total_pitches: 110
+    total_bangs: 0
+- 2017_04_28_oakmlb_houmlb_1:
+    pk: 490439
+    game_id: 2017_04_28_oakmlb_houmlb_1
+    date: 2017-04-28
+    short_date: Apr 28
+    date_zulu: 2017-04-29 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 133
+    away_team_club_common_name: A's
+    away_team_display_code: oak
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 133
+    l_team_club_common_name: A's
+    l_team_display_code: oak
+    home_team_runs: 9
+    away_team_runs: 4
+    w_pitcher: Charlie Morton
+    l_pitcher: Jharel Cotton
+    sv_pitcher: ''
+    youtube_id: udvxhKisXD0
+    youtube_start_offset: 697
+    total_pitches: 140
+    total_bangs: 5
+- 2017_04_29_oakmlb_houmlb_1:
+    pk: 490454
+    game_id: 2017_04_29_oakmlb_houmlb_1
+    date: 2017-04-29
+    short_date: Apr 29
+    date_zulu: 2017-04-29 23:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 133
+    away_team_club_common_name: A's
+    away_team_display_code: oak
+    w_team: 133
+    w_team_club_common_name: A's
+    w_team_display_code: oak
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 1
+    away_team_runs: 2
+    w_pitcher: Andrew Triggs
+    l_pitcher: Joe Musgrove
+    sv_pitcher: Santiago Casilla
+    youtube_id: yaR6uZ6Ysys
+    youtube_start_offset: 629
+    total_pitches: 114
+    total_bangs: 3
+- 2017_04_30_oakmlb_houmlb_1:
+    pk: 490469
+    game_id: 2017_04_30_oakmlb_houmlb_1
+    date: 2017-04-30
+    short_date: Apr 30
+    date_zulu: 2017-04-30 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 133
+    away_team_club_common_name: A's
+    away_team_display_code: oak
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 133
+    l_team_club_common_name: A's
+    l_team_display_code: oak
+    home_team_runs: 7
+    away_team_runs: 2
+    w_pitcher: Dallas Keuchel
+    l_pitcher: Jesse Hahn
+    sv_pitcher: Ken Giles
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 134
+    total_bangs: 0
+- 2017_05_01_texmlb_houmlb_1:
+    pk: 490484
+    game_id: 2017_05_01_texmlb_houmlb_1
+    date: 2017-05-01
+    short_date: May 1
+    date_zulu: 2017-05-02 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 140
+    l_team_club_common_name: Rangers
+    l_team_display_code: tex
+    home_team_runs: 6
+    away_team_runs: 2
+    w_pitcher: Chris Devenski
+    l_pitcher: Andrew Cashner
+    sv_pitcher: Ken Giles
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 125
+    total_bangs: 0
+- 2017_05_02_texmlb_houmlb_1:
+    pk: 490499
+    game_id: 2017_05_02_texmlb_houmlb_1
+    date: 2017-05-02
+    short_date: May 2
+    date_zulu: 2017-05-03 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 140
+    l_team_club_common_name: Rangers
+    l_team_display_code: tex
+    home_team_runs: 8
+    away_team_runs: 7
+    w_pitcher: James Hoyt
+    l_pitcher: Keone Kela
+    sv_pitcher: Will Harris
+    youtube_id: fVziGYabT2E
+    youtube_start_offset: 681
+    total_pitches: 142
+    total_bangs: 2
+- 2017_05_03_texmlb_houmlb_1:
+    pk: 490514
+    game_id: 2017_05_03_texmlb_houmlb_1
+    date: 2017-05-03
+    short_date: May 3
+    date_zulu: 2017-05-04 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 140
+    l_team_club_common_name: Rangers
+    l_team_display_code: tex
+    home_team_runs: 10
+    away_team_runs: 1
+    w_pitcher: Charlie Morton
+    l_pitcher: Nick Martinez
+    sv_pitcher: ''
+    youtube_id: MrtohVO9NxQ
+    youtube_start_offset: 673
+    total_pitches: 143
+    total_bangs: 1
+- 2017_05_04_texmlb_houmlb_1:
+    pk: 490528
+    game_id: 2017_05_04_texmlb_houmlb_1
+    date: 2017-05-04
+    short_date: May 4
+    date_zulu: 2017-05-04 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 140
+    w_team_club_common_name: Rangers
+    w_team_display_code: tex
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 4
+    away_team_runs: 10
+    w_pitcher: A.J. Griffin
+    l_pitcher: Joe Musgrove
+    sv_pitcher: ''
+    youtube_id: ZIYTuQ0OckU
+    youtube_start_offset: 661
+    total_pitches: 197
+    total_bangs: 2
+- 2017_05_09_atlmlb_houmlb_1:
+    pk: 490583
+    game_id: 2017_05_09_atlmlb_houmlb_1
+    date: 2017-05-09
+    short_date: May 9
+    date_zulu: 2017-05-10 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 144
+    away_team_club_common_name: Braves
+    away_team_display_code: atl
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 144
+    l_team_club_common_name: Braves
+    l_team_display_code: atl
+    home_team_runs: 8
+    away_team_runs: 3
+    w_pitcher: Charlie Morton
+    l_pitcher: Bartolo Colon
+    sv_pitcher: ''
+    youtube_id: CrTuuds5FTY
+    youtube_start_offset: 684
+    total_pitches: 134
+    total_bangs: 0
+- 2017_05_10_atlmlb_houmlb_1:
+    pk: 490598
+    game_id: 2017_05_10_atlmlb_houmlb_1
+    date: 2017-05-10
+    short_date: May 10
+    date_zulu: 2017-05-10 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 144
+    away_team_club_common_name: Braves
+    away_team_display_code: atl
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 144
+    l_team_club_common_name: Braves
+    l_team_display_code: atl
+    home_team_runs: 4
+    away_team_runs: 2
+    w_pitcher: Joe Musgrove
+    l_pitcher: Jaime Garcia
+    sv_pitcher: Ken Giles
+    youtube_id: zGZbOV103Y8
+    youtube_start_offset: 668
+    total_pitches: 138
+    total_bangs: 1
+- 2017_05_19_clemlb_houmlb_1:
+    pk: 490721
+    game_id: 2017_05_19_clemlb_houmlb_1
+    date: 2017-05-19
+    short_date: May 19
+    date_zulu: 2017-05-20 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 114
+    away_team_club_common_name: Indians
+    away_team_display_code: cle
+    w_team: 114
+    w_team_club_common_name: Indians
+    w_team_display_code: cle
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 3
+    away_team_runs: 5
+    w_pitcher: Trevor Bauer
+    l_pitcher: Charlie Morton
+    sv_pitcher: Cody Allen
+    youtube_id: 7E_Frt13xj8
+    youtube_start_offset: 642
+    total_pitches: 142
+    total_bangs: 2
+- 2017_05_20_clemlb_houmlb_1:
+    pk: 490736
+    game_id: 2017_05_20_clemlb_houmlb_1
+    date: 2017-05-20
+    short_date: May 20
+    date_zulu: 2017-05-20 20:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 114
+    away_team_club_common_name: Indians
+    away_team_display_code: cle
+    w_team: 114
+    w_team_club_common_name: Indians
+    w_team_display_code: cle
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 0
+    away_team_runs: 3
+    w_pitcher: Mike Clevinger
+    l_pitcher: Mike Fiers
+    sv_pitcher: Cody Allen
+    youtube_id: zbjVdl7zsQU
+    youtube_start_offset: 654
+    total_pitches: 134
+    total_bangs: 2
+- 2017_05_21_clemlb_houmlb_1:
+    pk: 490751
+    game_id: 2017_05_21_clemlb_houmlb_1
+    date: 2017-05-21
+    short_date: May 21
+    date_zulu: 2017-05-21 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 114
+    away_team_club_common_name: Indians
+    away_team_display_code: cle
+    w_team: 114
+    w_team_club_common_name: Indians
+    w_team_display_code: cle
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 6
+    away_team_runs: 8
+    w_pitcher: Danny Salazar
+    l_pitcher: Joe Musgrove
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 158
+    total_bangs: 0
+- 2017_05_22_detmlb_houmlb_1:
+    pk: 490766
+    game_id: 2017_05_22_detmlb_houmlb_1
+    date: 2017-05-22
+    short_date: May 22
+    date_zulu: 2017-05-23 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 116
+    away_team_club_common_name: Tigers
+    away_team_display_code: det
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 116
+    l_team_club_common_name: Tigers
+    l_team_display_code: det
+    home_team_runs: 1
+    away_team_runs: 0
+    w_pitcher: Chris Devenski
+    l_pitcher: Michael Fulmer
+    sv_pitcher: Ken Giles
+    youtube_id: agAm8myQGq8
+    youtube_start_offset: 644
+    total_pitches: 134
+    total_bangs: 3
+- 2017_05_23_detmlb_houmlb_1:
+    pk: 490775
+    game_id: 2017_05_23_detmlb_houmlb_1
+    date: 2017-05-23
+    short_date: May 23
+    date_zulu: 2017-05-24 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 116
+    away_team_club_common_name: Tigers
+    away_team_display_code: det
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 116
+    l_team_club_common_name: Tigers
+    l_team_display_code: det
+    home_team_runs: 6
+    away_team_runs: 2
+    w_pitcher: Lance McCullers Jr.
+    l_pitcher: Jordan Zimmermann
+    sv_pitcher: ''
+    youtube_id: RGwHoQrhISw
+    youtube_start_offset: 646
+    total_pitches: 127
+    total_bangs: 6
+- 2017_05_24_detmlb_houmlb_1:
+    pk: 490790
+    game_id: 2017_05_24_detmlb_houmlb_1
+    date: 2017-05-24
+    short_date: May 24
+    date_zulu: 2017-05-25 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 116
+    away_team_club_common_name: Tigers
+    away_team_display_code: det
+    w_team: 116
+    w_team_club_common_name: Tigers
+    w_team_display_code: det
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 3
+    away_team_runs: 6
+    w_pitcher: Shane Greene
+    l_pitcher: Chris Devenski
+    sv_pitcher: ''
+    youtube_id: ajdNHEAvkOU
+    youtube_start_offset: 649
+    total_pitches: 135
+    total_bangs: 3
+- 2017_05_25_detmlb_houmlb_1:
+    pk: 490805
+    game_id: 2017_05_25_detmlb_houmlb_1
+    date: 2017-05-25
+    short_date: May 25
+    date_zulu: 2017-05-26 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 116
+    away_team_club_common_name: Tigers
+    away_team_display_code: det
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 116
+    l_team_club_common_name: Tigers
+    l_team_display_code: det
+    home_team_runs: 7
+    away_team_runs: 6
+    w_pitcher: Luke Gregerson
+    l_pitcher: Alex Wilson
+    sv_pitcher: Ken Giles
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 145
+    total_bangs: 0
+- 2017_05_26_balmlb_houmlb_1:
+    pk: 490816
+    game_id: 2017_05_26_balmlb_houmlb_1
+    date: 2017-05-26
+    short_date: May 26
+    date_zulu: 2017-05-27 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 110
+    away_team_club_common_name: Orioles
+    away_team_display_code: bal
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 110
+    l_team_club_common_name: Orioles
+    l_team_display_code: bal
+    home_team_runs: 2
+    away_team_runs: 0
+    w_pitcher: Joe Musgrove
+    l_pitcher: Kevin Gausman
+    sv_pitcher: Ken Giles
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 120
+    total_bangs: 0
+- 2017_05_27_balmlb_houmlb_1:
+    pk: 490831
+    game_id: 2017_05_27_balmlb_houmlb_1
+    date: 2017-05-27
+    short_date: May 27
+    date_zulu: 2017-05-27 23:15:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 110
+    away_team_club_common_name: Orioles
+    away_team_display_code: bal
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 110
+    l_team_club_common_name: Orioles
+    l_team_display_code: bal
+    home_team_runs: 5
+    away_team_runs: 2
+    w_pitcher: Dallas Keuchel
+    l_pitcher: Wade Miley
+    sv_pitcher: Will Harris
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 144
+    total_bangs: 0
+- 2017_05_28_balmlb_houmlb_1:
+    pk: 490846
+    game_id: 2017_05_28_balmlb_houmlb_1
+    date: 2017-05-28
+    short_date: May 28
+    date_zulu: 2017-05-28 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 110
+    away_team_club_common_name: Orioles
+    away_team_display_code: bal
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 110
+    l_team_club_common_name: Orioles
+    l_team_display_code: bal
+    home_team_runs: 8
+    away_team_runs: 4
+    w_pitcher: Lance McCullers Jr.
+    l_pitcher: Alec Asher
+    sv_pitcher: ''
+    youtube_id: oM0yZ4bcJ4Y
+    youtube_start_offset: 668
+    total_pitches: 146
+    total_bangs: 28
+- 2017_06_09_anamlb_houmlb_1:
+    pk: 491011
+    game_id: 2017_06_09_anamlb_houmlb_1
+    date: 2017-06-09
+    short_date: Jun 9
+    date_zulu: 2017-06-10 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 108
+    w_team_club_common_name: Angels
+    w_team_display_code: laa
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 4
+    away_team_runs: 9
+    w_pitcher: Matt Shoemaker
+    l_pitcher: Brad Peacock
+    sv_pitcher: ''
+    youtube_id: _l-hCYLXG3k
+    youtube_start_offset: 646
+    total_pitches: 116
+    total_bangs: 7
+- 2017_06_10_anamlb_houmlb_1:
+    pk: 491026
+    game_id: 2017_06_10_anamlb_houmlb_1
+    date: 2017-06-10
+    short_date: Jun 10
+    date_zulu: 2017-06-10 20:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 108
+    l_team_club_common_name: Angels
+    l_team_display_code: laa
+    home_team_runs: 3
+    away_team_runs: 1
+    w_pitcher: Mike Fiers
+    l_pitcher: Ricky Nolasco
+    sv_pitcher: Ken Giles
+    youtube_id: mZG3pVzcqF8
+    youtube_start_offset: 699
+    total_pitches: 130
+    total_bangs: 13
+- 2017_06_11_anamlb_houmlb_1:
+    pk: 491042
+    game_id: 2017_06_11_anamlb_houmlb_1
+    date: 2017-06-11
+    short_date: Jun 11
+    date_zulu: 2017-06-11 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 108
+    w_team_club_common_name: Angels
+    w_team_display_code: laa
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 6
+    away_team_runs: 12
+    w_pitcher: Keynan Middleton
+    l_pitcher: Michael Feliz
+    sv_pitcher: ''
+    youtube_id: CqFZRiw7xPQ
+    youtube_start_offset: 738
+    total_pitches: 153
+    total_bangs: 17
+- 2017_06_12_texmlb_houmlb_1:
+    pk: 491059
+    game_id: 2017_06_12_texmlb_houmlb_1
+    date: 2017-06-12
+    short_date: Jun 12
+    date_zulu: 2017-06-13 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 140
+    w_team_club_common_name: Rangers
+    w_team_display_code: tex
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 1
+    away_team_runs: 6
+    w_pitcher: Yu Darvish
+    l_pitcher: Joe Musgrove
+    sv_pitcher: ''
+    youtube_id: JqkmsiZL7_8
+    youtube_start_offset: 697
+    total_pitches: 136
+    total_bangs: 36
+- 2017_06_13_texmlb_houmlb_1:
+    pk: 491074
+    game_id: 2017_06_13_texmlb_houmlb_1
+    date: 2017-06-13
+    short_date: Jun 13
+    date_zulu: 2017-06-14 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 140
+    w_team_club_common_name: Rangers
+    w_team_display_code: tex
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 2
+    away_team_runs: 4
+    w_pitcher: Jose Leclerc
+    l_pitcher: Luke Gregerson
+    sv_pitcher: Matt Bush
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 135
+    total_bangs: 0
+- 2017_06_14_texmlb_houmlb_1:
+    pk: 491089
+    game_id: 2017_06_14_texmlb_houmlb_1
+    date: 2017-06-14
+    short_date: Jun 14
+    date_zulu: 2017-06-15 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 140
+    l_team_club_common_name: Rangers
+    l_team_display_code: tex
+    home_team_runs: 13
+    away_team_runs: 2
+    w_pitcher: Francis Martes
+    l_pitcher: Andrew Cashner
+    sv_pitcher: ''
+    youtube_id: MYrjL7KG1fc
+    youtube_start_offset: 615
+    total_pitches: 190
+    total_bangs: 6
+- 2017_06_16_bosmlb_houmlb_1:
+    pk: 491101
+    game_id: 2017_06_16_bosmlb_houmlb_1
+    date: 2017-06-16
+    short_date: Jun 16
+    date_zulu: 2017-06-17 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 111
+    away_team_club_common_name: Red Sox
+    away_team_display_code: bos
+    w_team: 111
+    w_team_club_common_name: Red Sox
+    w_team_display_code: bos
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 1
+    away_team_runs: 2
+    w_pitcher: Joe Kelly
+    l_pitcher: Will Harris
+    sv_pitcher: Craig Kimbrel
+    youtube_id: m01FQIxgTv0
+    youtube_start_offset: 652
+    total_pitches: 150
+    total_bangs: 17
+- 2017_06_17_bosmlb_houmlb_1:
+    pk: 491116
+    game_id: 2017_06_17_bosmlb_houmlb_1
+    date: 2017-06-17
+    short_date: Jun 17
+    date_zulu: 2017-06-18 00:15:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 111
+    away_team_club_common_name: Red Sox
+    away_team_display_code: bos
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 111
+    l_team_club_common_name: Red Sox
+    l_team_display_code: bos
+    home_team_runs: 7
+    away_team_runs: 1
+    w_pitcher: David Paulino
+    l_pitcher: Rick Porcello
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 128
+    total_bangs: 0
+- 2017_06_18_bosmlb_houmlb_1:
+    pk: 491131
+    game_id: 2017_06_18_bosmlb_houmlb_1
+    date: 2017-06-18
+    short_date: Jun 18
+    date_zulu: 2017-06-19 00:05:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 111
+    away_team_club_common_name: Red Sox
+    away_team_display_code: bos
+    w_team: 111
+    w_team_club_common_name: Red Sox
+    w_team_display_code: bos
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 5
+    away_team_runs: 6
+    w_pitcher: David Price
+    l_pitcher: Joe Musgrove
+    sv_pitcher: Craig Kimbrel
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 192
+    total_bangs: 0
+- 2017_06_27_oakmlb_houmlb_1:
+    pk: 491260
+    game_id: 2017_06_27_oakmlb_houmlb_1
+    date: 2017-06-27
+    short_date: Jun 27
+    date_zulu: 2017-06-28 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 133
+    away_team_club_common_name: A's
+    away_team_display_code: oak
+    w_team: 133
+    w_team_club_common_name: A's
+    w_team_display_code: oak
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 4
+    away_team_runs: 6
+    w_pitcher: Sean Manaea
+    l_pitcher: Mike Fiers
+    sv_pitcher: Santiago Casilla
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 153
+    total_bangs: 0
+- 2017_06_28_oakmlb_houmlb_1:
+    pk: 491275
+    game_id: 2017_06_28_oakmlb_houmlb_1
+    date: 2017-06-28
+    short_date: Jun 28
+    date_zulu: 2017-06-29 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 133
+    away_team_club_common_name: A's
+    away_team_display_code: oak
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 133
+    l_team_club_common_name: A's
+    l_team_display_code: oak
+    home_team_runs: 11
+    away_team_runs: 8
+    w_pitcher: Michael Feliz
+    l_pitcher: Jesse Hahn
+    sv_pitcher: Ken Giles
+    youtube_id: uQ96ejh3eoo
+    youtube_start_offset: 741
+    total_pitches: 159
+    total_bangs: 26
+- 2017_06_29_oakmlb_houmlb_1:
+    pk: 491289
+    game_id: 2017_06_29_oakmlb_houmlb_1
+    date: 2017-06-29
+    short_date: Jun 29
+    date_zulu: 2017-06-29 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 133
+    away_team_club_common_name: A's
+    away_team_display_code: oak
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 133
+    l_team_club_common_name: A's
+    l_team_display_code: oak
+    home_team_runs: 6
+    away_team_runs: 1
+    w_pitcher: Brad Peacock
+    l_pitcher: Daniel Gossett
+    sv_pitcher: ''
+    youtube_id: sploj405Igw
+    youtube_start_offset: 686
+    total_pitches: 148
+    total_bangs: 40
+- 2017_06_30_nyamlb_houmlb_1:
+    pk: 491301
+    game_id: 2017_06_30_nyamlb_houmlb_1
+    date: 2017-06-30
+    short_date: Jun 30
+    date_zulu: 2017-07-01 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 147
+    away_team_club_common_name: Yankees
+    away_team_display_code: nyy
+    w_team: 147
+    w_team_club_common_name: Yankees
+    w_team_display_code: nyy
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 4
+    away_team_runs: 13
+    w_pitcher: Michael Pineda
+    l_pitcher: Michael Feliz
+    sv_pitcher: Bryan Mitchell
+    youtube_id: nVUSW0y7v1U
+    youtube_start_offset: 684
+    total_pitches: 121
+    total_bangs: 44
+- 2017_07_01_nyamlb_houmlb_1:
+    pk: 491316
+    game_id: 2017_07_01_nyamlb_houmlb_1
+    date: 2017-07-01
+    short_date: Jul 1
+    date_zulu: 2017-07-01 23:15:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 147
+    away_team_club_common_name: Yankees
+    away_team_display_code: nyy
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 147
+    l_team_club_common_name: Yankees
+    l_team_display_code: nyy
+    home_team_runs: 7
+    away_team_runs: 6
+    w_pitcher: Dayan Diaz
+    l_pitcher: Dellin Betances
+    sv_pitcher: Ken Giles
+    youtube_id: -e-iFe4cGVc
+    youtube_start_offset: 397
+    total_pitches: 146
+    total_bangs: 41
+- 2017_07_02_nyamlb_houmlb_1:
+    pk: 491331
+    game_id: 2017_07_02_nyamlb_houmlb_1
+    date: 2017-07-02
+    short_date: Jul 2
+    date_zulu: 2017-07-02 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 147
+    away_team_club_common_name: Yankees
+    away_team_display_code: nyy
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 147
+    l_team_club_common_name: Yankees
+    l_team_display_code: nyy
+    home_team_runs: 8
+    away_team_runs: 1
+    w_pitcher: Chris Devenski
+    l_pitcher: Luis Severino
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 140
+    total_bangs: 0
+- 2017_07_14_minmlb_houmlb_1:
+    pk: 491440
+    game_id: 2017_07_14_minmlb_houmlb_1
+    date: 2017-07-14
+    short_date: Jul 14
+    date_zulu: 2017-07-15 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 142
+    away_team_club_common_name: Twins
+    away_team_display_code: min
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 142
+    l_team_club_common_name: Twins
+    l_team_display_code: min
+    home_team_runs: 10
+    away_team_runs: 5
+    w_pitcher: Charlie Morton
+    l_pitcher: Jose Berrios
+    sv_pitcher: ''
+    youtube_id: 7FYj9_5sQk4
+    youtube_start_offset: 659
+    total_pitches: 179
+    total_bangs: 48
+- 2017_07_15_minmlb_houmlb_1:
+    pk: 491455
+    game_id: 2017_07_15_minmlb_houmlb_1
+    date: 2017-07-15
+    short_date: Jul 15
+    date_zulu: 2017-07-15 23:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 142
+    away_team_club_common_name: Twins
+    away_team_display_code: min
+    w_team: 142
+    w_team_club_common_name: Twins
+    w_team_display_code: min
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 2
+    away_team_runs: 4
+    w_pitcher: Ervin Santana
+    l_pitcher: Joe Musgrove
+    sv_pitcher: Brandon Kintzler
+    youtube_id: -8_wyWjXTE0
+    youtube_start_offset: 690
+    total_pitches: 157
+    total_bangs: 37
+- 2017_07_16_minmlb_houmlb_1:
+    pk: 491470
+    game_id: 2017_07_16_minmlb_houmlb_1
+    date: 2017-07-16
+    short_date: Jul 16
+    date_zulu: 2017-07-16 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 142
+    away_team_club_common_name: Twins
+    away_team_display_code: min
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 142
+    l_team_club_common_name: Twins
+    l_team_display_code: min
+    home_team_runs: 5
+    away_team_runs: 3
+    w_pitcher: Mike Fiers
+    l_pitcher: Kyle Gibson
+    sv_pitcher: Ken Giles
+    youtube_id: disyqyZ6EI4
+    youtube_start_offset: 674
+    total_pitches: 136
+    total_bangs: 27
+- 2017_07_17_seamlb_houmlb_1:
+    pk: 491487
+    game_id: 2017_07_17_seamlb_houmlb_1
+    date: 2017-07-17
+    short_date: Jul 17
+    date_zulu: 2017-07-18 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 136
+    w_team_club_common_name: Mariners
+    w_team_display_code: sea
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 7
+    away_team_runs: 9
+    w_pitcher: Yovani Gallardo
+    l_pitcher: Tony Sipp
+    sv_pitcher: Edwin Diaz
+    youtube_id: eidimOhlMo4
+    youtube_start_offset: 672
+    total_pitches: 168
+    total_bangs: 31
+- 2017_07_18_seamlb_houmlb_1:
+    pk: 491502
+    game_id: 2017_07_18_seamlb_houmlb_1
+    date: 2017-07-18
+    short_date: Jul 18
+    date_zulu: 2017-07-19 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 136
+    l_team_club_common_name: Mariners
+    l_team_display_code: sea
+    home_team_runs: 6
+    away_team_runs: 2
+    w_pitcher: Brad Peacock
+    l_pitcher: Sam Gaviglio
+    sv_pitcher: Luke Gregerson
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 126
+    total_bangs: 0
+- 2017_07_19_seamlb_houmlb_1:
+    pk: 491517
+    game_id: 2017_07_19_seamlb_houmlb_1
+    date: 2017-07-19
+    short_date: Jul 19
+    date_zulu: 2017-07-19 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 136
+    w_team_club_common_name: Mariners
+    w_team_display_code: sea
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 1
+    away_team_runs: 4
+    w_pitcher: James Paxton
+    l_pitcher: Charlie Morton
+    sv_pitcher: Edwin Diaz
+    youtube_id: CPnytpmYNFE
+    youtube_start_offset: 640
+    total_pitches: 144
+    total_bangs: 43
+- 2017_07_31_tbamlb_houmlb_1:
+    pk: 491678
+    game_id: 2017_07_31_tbamlb_houmlb_1
+    date: 2017-07-31
+    short_date: Jul 31
+    date_zulu: 2017-08-01 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 139
+    away_team_club_common_name: Rays
+    away_team_display_code: tb
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 139
+    l_team_club_common_name: Rays
+    l_team_display_code: tb
+    home_team_runs: 14
+    away_team_runs: 7
+    w_pitcher: Charlie Morton
+    l_pitcher: Alex Cobb
+    sv_pitcher: ''
+    youtube_id: JkTY8M7YfAI
+    youtube_start_offset: 616
+    total_pitches: 154
+    total_bangs: 28
+- 2017_08_01_tbamlb_houmlb_1:
+    pk: 491693
+    game_id: 2017_08_01_tbamlb_houmlb_1
+    date: 2017-08-01
+    short_date: Aug 1
+    date_zulu: 2017-08-02 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 139
+    away_team_club_common_name: Rays
+    away_team_display_code: tb
+    w_team: 139
+    w_team_club_common_name: Rays
+    w_team_display_code: tb
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 4
+    away_team_runs: 6
+    w_pitcher: Chris Archer
+    l_pitcher: Mike Fiers
+    sv_pitcher: Alex Colome
+    youtube_id: QvwkaKHUNYw
+    youtube_start_offset: 642
+    total_pitches: 147
+    total_bangs: 39
+- 2017_08_02_tbamlb_houmlb_1:
+    pk: 491708
+    game_id: 2017_08_02_tbamlb_houmlb_1
+    date: 2017-08-02
+    short_date: Aug 2
+    date_zulu: 2017-08-03 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 139
+    away_team_club_common_name: Rays
+    away_team_display_code: tb
+    w_team: 139
+    w_team_club_common_name: Rays
+    w_team_display_code: tb
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 0
+    away_team_runs: 3
+    w_pitcher: Austin Pruitt
+    l_pitcher: Dallas Keuchel
+    sv_pitcher: Alex Colome
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 128
+    total_bangs: 0
+- 2017_08_03_tbamlb_houmlb_1:
+    pk: 491722
+    game_id: 2017_08_03_tbamlb_houmlb_1
+    date: 2017-08-03
+    short_date: Aug 3
+    date_zulu: 2017-08-04 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 139
+    away_team_club_common_name: Rays
+    away_team_display_code: tb
+    w_team: 139
+    w_team_club_common_name: Rays
+    w_team_display_code: tb
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 3
+    away_team_runs: 5
+    w_pitcher: Brad Boxberger
+    l_pitcher: Francisco Liriano
+    sv_pitcher: Alex Colome
+    youtube_id: 9GAUyJDJoVc
+    youtube_start_offset: 670
+    total_pitches: 149
+    total_bangs: 41
+- 2017_08_04_tormlb_houmlb_1:
+    pk: 491737
+    game_id: 2017_08_04_tormlb_houmlb_1
+    date: 2017-08-04
+    short_date: Aug 4
+    date_zulu: 2017-08-05 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 141
+    away_team_club_common_name: Blue Jays
+    away_team_display_code: tor
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 141
+    l_team_club_common_name: Blue Jays
+    l_team_display_code: tor
+    home_team_runs: 16
+    away_team_runs: 7
+    w_pitcher: Brad Peacock
+    l_pitcher: Cesar Valdez
+    sv_pitcher: ''
+    youtube_id: pkwjm2oglGw
+    youtube_start_offset: 655
+    total_pitches: 175
+    total_bangs: 54
+- 2017_08_05_tormlb_houmlb_1:
+    pk: 491752
+    game_id: 2017_08_05_tormlb_houmlb_1
+    date: 2017-08-05
+    short_date: Aug 5
+    date_zulu: 2017-08-05 23:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 141
+    away_team_club_common_name: Blue Jays
+    away_team_display_code: tor
+    w_team: 141
+    w_team_club_common_name: Blue Jays
+    w_team_display_code: tor
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 3
+    away_team_runs: 4
+    w_pitcher: Ryan Tepera
+    l_pitcher: Francisco Liriano
+    sv_pitcher: Roberto Osuna
+    youtube_id: iMMnF353Z-I
+    youtube_start_offset: 661
+    total_pitches: 138
+    total_bangs: 23
+- 2017_08_06_tormlb_houmlb_1:
+    pk: 491767
+    game_id: 2017_08_06_tormlb_houmlb_1
+    date: 2017-08-06
+    short_date: Aug 6
+    date_zulu: 2017-08-06 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 141
+    away_team_club_common_name: Blue Jays
+    away_team_display_code: tor
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 141
+    l_team_club_common_name: Blue Jays
+    l_team_display_code: tor
+    home_team_runs: 7
+    away_team_runs: 6
+    w_pitcher: Francis Martes
+    l_pitcher: Roberto Osuna
+    sv_pitcher: ''
+    youtube_id: _h8iCp005rg
+    youtube_start_offset: 713
+    total_pitches: 160
+    total_bangs: 37
+- 2017_08_16_arimlb_houmlb_1:
+    pk: 491888
+    game_id: 2017_08_16_arimlb_houmlb_1
+    date: 2017-08-16
+    short_date: Aug 16
+    date_zulu: 2017-08-17 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 109
+    away_team_club_common_name: D-backs
+    away_team_display_code: ari
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 109
+    l_team_club_common_name: D-backs
+    l_team_display_code: ari
+    home_team_runs: 9
+    away_team_runs: 5
+    w_pitcher: Charlie Morton
+    l_pitcher: Taijuan Walker
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 152
+    total_bangs: 0
+- 2017_08_17_arimlb_houmlb_1:
+    pk: 491903
+    game_id: 2017_08_17_arimlb_houmlb_1
+    date: 2017-08-17
+    short_date: Aug 17
+    date_zulu: 2017-08-17 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 109
+    away_team_club_common_name: D-backs
+    away_team_display_code: ari
+    w_team: 109
+    w_team_club_common_name: D-backs
+    w_team_display_code: ari
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 0
+    away_team_runs: 4
+    w_pitcher: Patrick Corbin
+    l_pitcher: Mike Fiers
+    sv_pitcher: ''
+    youtube_id: hvVxExYoN04
+    youtube_start_offset: 749
+    total_pitches: 112
+    total_bangs: 35
+- 2017_08_18_oakmlb_houmlb_1:
+    pk: 491922
+    game_id: 2017_08_18_oakmlb_houmlb_1
+    date: 2017-08-18
+    short_date: Aug 18
+    date_zulu: 2017-08-19 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 133
+    away_team_club_common_name: A's
+    away_team_display_code: oak
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 133
+    l_team_club_common_name: A's
+    l_team_display_code: oak
+    home_team_runs: 3
+    away_team_runs: 1
+    w_pitcher: Dallas Keuchel
+    l_pitcher: Sean Manaea
+    sv_pitcher: Ken Giles
+    youtube_id: f42u22gPh4Y
+    youtube_start_offset: 708
+    total_pitches: 124
+    total_bangs: 37
+- 2017_08_19_oakmlb_houmlb_1:
+    pk: 491937
+    game_id: 2017_08_19_oakmlb_houmlb_1
+    date: 2017-08-19
+    short_date: Aug 19
+    date_zulu: 2017-08-19 23:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 133
+    away_team_club_common_name: A's
+    away_team_display_code: oak
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 133
+    l_team_club_common_name: A's
+    l_team_display_code: oak
+    home_team_runs: 3
+    away_team_runs: 0
+    w_pitcher: Collin McHugh
+    l_pitcher: Kendall Graveman
+    sv_pitcher: Tyler Clippard
+    youtube_id: 6YBmiPHrbHE
+    youtube_start_offset: 700
+    total_pitches: 125
+    total_bangs: 16
+- 2017_08_20_oakmlb_houmlb_1:
+    pk: 491952
+    game_id: 2017_08_20_oakmlb_houmlb_1
+    date: 2017-08-20
+    short_date: Aug 20
+    date_zulu: 2017-08-20 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 133
+    away_team_club_common_name: A's
+    away_team_display_code: oak
+    w_team: 133
+    w_team_club_common_name: A's
+    w_team_display_code: oak
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 2
+    away_team_runs: 3
+    w_pitcher: Jharel Cotton
+    l_pitcher: Brad Peacock
+    sv_pitcher: Blake Treinen
+    youtube_id: PsjLoZ_Hth8
+    youtube_start_offset: 676
+    total_pitches: 134
+    total_bangs: 45
+- 2017_08_22_wasmlb_houmlb_1:
+    pk: 491980
+    game_id: 2017_08_22_wasmlb_houmlb_1
+    date: 2017-08-22
+    short_date: Aug 22
+    date_zulu: 2017-08-23 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 120
+    away_team_club_common_name: Nationals
+    away_team_display_code: wsh
+    w_team: 120
+    w_team_club_common_name: Nationals
+    w_team_display_code: wsh
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 3
+    away_team_runs: 4
+    w_pitcher: Tanner Roark
+    l_pitcher: Charlie Morton
+    sv_pitcher: Sean Doolittle
+    youtube_id: 2-vKmzaA9ms
+    youtube_start_offset: 656
+    total_pitches: 162
+    total_bangs: 33
+- 2017_08_23_wasmlb_houmlb_1:
+    pk: 491995
+    game_id: 2017_08_23_wasmlb_houmlb_1
+    date: 2017-08-23
+    short_date: Aug 23
+    date_zulu: 2017-08-24 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 120
+    away_team_club_common_name: Nationals
+    away_team_display_code: wsh
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 120
+    l_team_club_common_name: Nationals
+    l_team_display_code: wsh
+    home_team_runs: 6
+    away_team_runs: 1
+    w_pitcher: Mike Fiers
+    l_pitcher: Edwin Jackson
+    sv_pitcher: ''
+    youtube_id: DHZSP4AATTA
+    youtube_start_offset: 648
+    total_pitches: 139
+    total_bangs: 29
+- 2017_08_24_wasmlb_houmlb_1:
+    pk: 492007
+    game_id: 2017_08_24_wasmlb_houmlb_1
+    date: 2017-08-24
+    short_date: Aug 24
+    date_zulu: 2017-08-25 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 120
+    away_team_club_common_name: Nationals
+    away_team_display_code: wsh
+    w_team: 120
+    w_team_club_common_name: Nationals
+    w_team_display_code: wsh
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 4
+    away_team_runs: 5
+    w_pitcher: Matt Albers
+    l_pitcher: Tyler Clippard
+    sv_pitcher: Sammy Solis
+    youtube_id: -YcU0q6TTGA
+    youtube_start_offset: 641
+    total_pitches: 163
+    total_bangs: 47
+- 2017_08_29_texmlb_houmlb_1:
+    pk: 492077
+    game_id: 2017_08_29_texmlb_houmlb_1
+    date: 2017-08-29
+    short_date: Aug 29
+    date_zulu: 2017-08-29 23:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 140
+    w_team_club_common_name: Rangers
+    w_team_display_code: tex
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 2
+    away_team_runs: 12
+    w_pitcher: Martin Perez
+    l_pitcher: Mike Fiers
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 140
+    total_bangs: 0
+- 2017_08_30_texmlb_houmlb_1:
+    pk: 492092
+    game_id: 2017_08_30_texmlb_houmlb_1
+    date: 2017-08-30
+    short_date: Aug 30
+    date_zulu: 2017-08-30 23:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 140
+    w_team_club_common_name: Rangers
+    w_team_display_code: tex
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 1
+    away_team_runs: 8
+    w_pitcher: Andrew Cashner
+    l_pitcher: Dallas Keuchel
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 120
+    total_bangs: 0
+- 2017_08_31_texmlb_houmlb_1:
+    pk: 492100
+    game_id: 2017_08_31_texmlb_houmlb_1
+    date: 2017-08-31
+    short_date: Aug 31
+    date_zulu: 2017-08-31 17:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 140
+    away_team_club_common_name: Rangers
+    away_team_display_code: tex
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 140
+    l_team_club_common_name: Rangers
+    l_team_display_code: tex
+    home_team_runs: 5
+    away_team_runs: 1
+    w_pitcher: Chris Devenski
+    l_pitcher: Nick Martinez
+    sv_pitcher: Ken Giles
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 122
+    total_bangs: 0
+- 2017_09_02_nynmlb_houmlb_1:
+    pk: 492111
+    game_id: 2017_09_02_nynmlb_houmlb_1
+    date: 2017-09-02
+    short_date: Sep 2
+    date_zulu: 2017-09-02 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 121
+    away_team_club_common_name: Mets
+    away_team_display_code: nym
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 121
+    l_team_club_common_name: Mets
+    l_team_display_code: nym
+    home_team_runs: 12
+    away_team_runs: 8
+    w_pitcher: Charlie Morton
+    l_pitcher: Matt Harvey
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 174
+    total_bangs: 0
+- 2017_09_02_nynmlb_houmlb_2:
+    pk: 492126
+    game_id: 2017_09_02_nynmlb_houmlb_2
+    date: 2017-09-02
+    short_date: Sep 2
+    date_zulu: 2017-09-03 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 121
+    away_team_club_common_name: Mets
+    away_team_display_code: nym
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 121
+    l_team_club_common_name: Mets
+    l_team_display_code: nym
+    home_team_runs: 4
+    away_team_runs: 1
+    w_pitcher: Joe Musgrove
+    l_pitcher: Seth Lugo
+    sv_pitcher: Ken Giles
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 130
+    total_bangs: 0
+- 2017_09_03_nynmlb_houmlb_1:
+    pk: 492141
+    game_id: 2017_09_03_nynmlb_houmlb_1
+    date: 2017-09-03
+    short_date: Sep 3
+    date_zulu: 2017-09-03 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 121
+    away_team_club_common_name: Mets
+    away_team_display_code: nym
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 121
+    l_team_club_common_name: Mets
+    l_team_display_code: nym
+    home_team_runs: 8
+    away_team_runs: 6
+    w_pitcher: Will Harris
+    l_pitcher: Chris Flexen
+    sv_pitcher: Chris Devenski
+    youtube_id: Cq1ZPGI_fuc
+    youtube_start_offset: 678
+    total_pitches: 130
+    total_bangs: 24
+- 2017_09_15_seamlb_houmlb_1:
+    pk: 492307
+    game_id: 2017_09_15_seamlb_houmlb_1
+    date: 2017-09-15
+    short_date: Sep 15
+    date_zulu: 2017-09-16 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 136
+    l_team_club_common_name: Mariners
+    l_team_display_code: sea
+    home_team_runs: 5
+    away_team_runs: 2
+    w_pitcher: Charlie Morton
+    l_pitcher: James Paxton
+    sv_pitcher: Ken Giles
+    youtube_id: wH33PKM-5E0
+    youtube_start_offset: 656
+    total_pitches: 152
+    total_bangs: 37
+- 2017_09_16_seamlb_houmlb_1:
+    pk: 492322
+    game_id: 2017_09_16_seamlb_houmlb_1
+    date: 2017-09-16
+    short_date: Sep 16
+    date_zulu: 2017-09-16 17:05:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 136
+    l_team_club_common_name: Mariners
+    l_team_display_code: sea
+    home_team_runs: 8
+    away_team_runs: 6
+    w_pitcher: Dallas Keuchel
+    l_pitcher: Erasmo Ramirez
+    sv_pitcher: Joe Musgrove
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 159
+    total_bangs: 0
+- 2017_09_17_seamlb_houmlb_1:
+    pk: 492337
+    game_id: 2017_09_17_seamlb_houmlb_1
+    date: 2017-09-17
+    short_date: Sep 17
+    date_zulu: 2017-09-17 18:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 136
+    away_team_club_common_name: Mariners
+    away_team_display_code: sea
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 136
+    l_team_club_common_name: Mariners
+    l_team_display_code: sea
+    home_team_runs: 7
+    away_team_runs: 1
+    w_pitcher: Justin Verlander
+    l_pitcher: Andrew Moore
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 142
+    total_bangs: 0
+- 2017_09_19_chamlb_houmlb_1:
+    pk: 492351
+    game_id: 2017_09_19_chamlb_houmlb_1
+    date: 2017-09-19
+    short_date: Sep 19
+    date_zulu: 2017-09-20 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 145
+    away_team_club_common_name: White Sox
+    away_team_display_code: cws
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 145
+    l_team_club_common_name: White Sox
+    l_team_display_code: cws
+    home_team_runs: 3
+    away_team_runs: 1
+    w_pitcher: Collin McHugh
+    l_pitcher: Lucas Giolito
+    sv_pitcher: Ken Giles
+    youtube_id: Hsur-Ty2vOs
+    youtube_start_offset: 685
+    total_pitches: 114
+    total_bangs: 35
+- 2017_09_20_chamlb_houmlb_1:
+    pk: 492366
+    game_id: 2017_09_20_chamlb_houmlb_1
+    date: 2017-09-20
+    short_date: Sep 20
+    date_zulu: 2017-09-21 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 145
+    away_team_club_common_name: White Sox
+    away_team_display_code: cws
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 145
+    l_team_club_common_name: White Sox
+    l_team_display_code: cws
+    home_team_runs: 4
+    away_team_runs: 3
+    w_pitcher: Brad Peacock
+    l_pitcher: James Shields
+    sv_pitcher: Joe Musgrove
+    youtube_id: -P0jqZvoW7M
+    youtube_start_offset: 594
+    total_pitches: 135
+    total_bangs: 31
+- 2017_09_21_chamlb_houmlb_1:
+    pk: 492379
+    game_id: 2017_09_21_chamlb_houmlb_1
+    date: 2017-09-21
+    short_date: Sep 21
+    date_zulu: 2017-09-22 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 145
+    away_team_club_common_name: White Sox
+    away_team_display_code: cws
+    w_team: 145
+    w_team_club_common_name: White Sox
+    w_team_display_code: cws
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 1
+    away_team_runs: 3
+    w_pitcher: Chris Volstad
+    l_pitcher: Dallas Keuchel
+    sv_pitcher: Juan Minaya
+    youtube_id: SftEFwbpmic
+    youtube_start_offset: 725
+    total_pitches: 151
+    total_bangs: 41
+- 2017_09_22_anamlb_houmlb_1:
+    pk: 492394
+    game_id: 2017_09_22_anamlb_houmlb_1
+    date: 2017-09-22
+    short_date: Sep 22
+    date_zulu: 2017-09-23 00:10:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 108
+    l_team_club_common_name: Angels
+    l_team_display_code: laa
+    home_team_runs: 3
+    away_team_runs: 0
+    w_pitcher: Justin Verlander
+    l_pitcher: Yusmeiro Petit
+    sv_pitcher: Ken Giles
+    youtube_id: 2viSQ9q3SoQ
+    youtube_start_offset: 680
+    total_pitches: 125
+    total_bangs: 1
+- 2017_09_23_anamlb_houmlb_1:
+    pk: 492409
+    game_id: 2017_09_23_anamlb_houmlb_1
+    date: 2017-09-23
+    short_date: Sep 23
+    date_zulu: 2017-09-23 17:05:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 117
+    w_team_club_common_name: Astros
+    w_team_display_code: hou
+    l_team: 108
+    l_team_club_common_name: Angels
+    l_team_display_code: laa
+    home_team_runs: 6
+    away_team_runs: 2
+    w_pitcher: Charlie Morton
+    l_pitcher: Bud Norris
+    sv_pitcher: ''
+    youtube_id: ''
+    youtube_start_offset: 0
+    total_pitches: 112
+    total_bangs: 0
+- 2017_09_24_anamlb_houmlb_1:
+    pk: 492424
+    game_id: 2017_09_24_anamlb_houmlb_1
+    date: 2017-09-24
+    short_date: Sep 24
+    date_zulu: 2017-09-25 00:05:00+00:00
+    home_team: 117
+    home_team_club_common_name: Astros
+    home_team_display_code: hou
+    away_team: 108
+    away_team_club_common_name: Angels
+    away_team_display_code: laa
+    w_team: 108
+    w_team_club_common_name: Angels
+    w_team_display_code: laa
+    l_team: 117
+    l_team_club_common_name: Astros
+    l_team_display_code: hou
+    home_team_runs: 5
+    away_team_runs: 7
+    w_pitcher: Keynan Middleton
+    l_pitcher: Chris Devenski
+    sv_pitcher: Blake Parker
+    youtube_id: oIChAX54tS4
+    youtube_start_offset: 574
+    total_pitches: 141
+    total_bangs: 1
